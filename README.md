@@ -45,19 +45,19 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
-
-
+![alt text](<Screenshot 2026-02-26 193044-1.png>)
+![alt text](<WhatsApp Image 2026-03-15 at 9.53.22 PM-1.jpeg>)
 b.  KCL:
- 
-
+![alt text](<Screenshot 2026-02-26 194302-1.png>)
+![alt text](<WhatsApp Image 2026-03-15 at 9.53.22 PM (1)-1.jpeg>)
 Calculation:
 
 a.   KVL:
- 
+![alt text](<WhatsApp Image 2026-03-15 at 9.53.22 PM (1)-2.jpeg>)
 
 
 b.  KCL:
-
+![alt text](<WhatsApp Image 2026-03-15 at 10.11.59 PM (1)-1.jpeg>)
 
 
 
@@ -65,10 +65,10 @@ Tabulation:
 
 a.   KVL:
  
-
+![alt text](<WhatsApp Image 2026-03-15 at 9.53.23 PM-1.jpeg>)
 
 b.  KCL:
-
+![alt text](<WhatsApp Image 2026-03-15 at 9.53.23 PM (1)-1.jpeg>)
 
 
 RESULT:
